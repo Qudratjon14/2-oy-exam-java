@@ -1,1 +1,1 @@
-# 2-oy-exam-java
+# exam2Oy
